@@ -1,5 +1,5 @@
 manifestVersion: 1
-id: onesandzeros-apps-bitcoin-tax-calculator
+id: bitcoin-tax-calculator
 name: Bitcoin Tax Calculator
 tagline: Calculate Bitcoin capital gains for NZ IRD using the WAC method
 icon: https://raw.githubusercontent.com/onesandzeros-nz/bitcoin-tax-calculator-umbrel/main/bitcoin-tax-calculator/icon.svg
