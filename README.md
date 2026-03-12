@@ -1,4 +1,4 @@
-# Bitcoin Tax Calculator - Umbrel App Store
+# Ones and Zeros - Umbrel App Store
 
 A community Umbrel app store containing the [Bitcoin Tax Calculator](https://github.com/onesandzeros-nz/bitcoin-tax) — a privacy-focused tool for calculating Bitcoin capital gains using the Weighted Average Cost (WAC) method for New Zealand IRD reporting.
 
@@ -16,7 +16,7 @@ From your Umbrel dashboard, click the **App Store** icon.
 4. Paste the following URL:
 
 ```
-https://github.com/onesandzeros-nz/bitcoin-tax-umbrel
+https://github.com/onesandzeros-nz/onesandzeros-umbrel
 ```
 
 5. Click **Add**
